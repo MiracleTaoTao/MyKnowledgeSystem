@@ -14,7 +14,8 @@
 - [001 两数之和.md](https://github.com/MiracleTaoTao/MyKnowledgeSystem/blob/master/LeetCode%E5%88%B7%E9%A2%98/001%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
 - [595 大的国家.md](https://github.com/MiracleTaoTao/MyKnowledgeSystem/blob/master/LeetCode%E5%88%B7%E9%A2%98/595%20%E5%A4%A7%E7%9A%84%E5%9B%BD%E5%AE%B6.md)
 - [709 转换成小写字母.md](https://github.com/MiracleTaoTao/MyKnowledgeSystem/blob/master/LeetCode%E5%88%B7%E9%A2%98/709%20%E8%BD%AC%E6%8D%A2%E6%88%90%E5%B0%8F%E5%86%99%E5%AD%97%E6%AF%8D.md)
-- 删除最外层的括号.md
+- 711 宝石与石头.md
+- 1021 删除最外层的括号.md
 
 ## JavaWeb
 
