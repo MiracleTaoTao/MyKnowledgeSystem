@@ -11,10 +11,11 @@
 
 力扣中国([https://leetcode-cn.com](https://leetcode-cn.com/)) 题库解答
 
-- [001 两数之和.md](https://github.com/MiracleTaoTao/MyKnowledgeSystem/blob/master/LeetCode%E5%88%B7%E9%A2%98/001%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
-- [595 大的国家.md](https://github.com/MiracleTaoTao/MyKnowledgeSystem/blob/master/LeetCode%E5%88%B7%E9%A2%98/595%20%E5%A4%A7%E7%9A%84%E5%9B%BD%E5%AE%B6.md)
-- [709 转换成小写字母.md](https://github.com/MiracleTaoTao/MyKnowledgeSystem/blob/master/LeetCode%E5%88%B7%E9%A2%98/709%20%E8%BD%AC%E6%8D%A2%E6%88%90%E5%B0%8F%E5%86%99%E5%AD%97%E6%AF%8D.md)
-- 711 宝石与石头.md
+- [0001 两数之和.md](https://github.com/MiracleTaoTao/MyKnowledgeSystem/blob/master/LeetCode%E5%88%B7%E9%A2%98/001%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.md)
+- 0182 查找重复的电子邮箱.md
+- [0595 大的国家.md](https://github.com/MiracleTaoTao/MyKnowledgeSystem/blob/master/LeetCode%E5%88%B7%E9%A2%98/595%20%E5%A4%A7%E7%9A%84%E5%9B%BD%E5%AE%B6.md)
+- [0709 转换成小写字母.md](https://github.com/MiracleTaoTao/MyKnowledgeSystem/blob/master/LeetCode%E5%88%B7%E9%A2%98/709%20%E8%BD%AC%E6%8D%A2%E6%88%90%E5%B0%8F%E5%86%99%E5%AD%97%E6%AF%8D.md)
+- 0711 宝石与石头.md
 - 1021 删除最外层的括号.md
 
 ## JavaWeb
