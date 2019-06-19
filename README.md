@@ -1,9 +1,35 @@
 # MyKnowledgeSystem
 > 此仓库主要是整理自己的知识体系，从API调用到源码查看，一步步深入。
 
+## 目录
+
+- [视频资料](https://github.com/MiracleTaoTao/MyKnowledgeSystem#%E8%A7%86%E9%A2%91%E8%B5%84%E6%96%99)
+- [Java基础](https://github.com/MiracleTaoTao/MyKnowledgeSystem#java%E5%9F%BA%E7%A1%80)
+- [设计模式](https://github.com/MiracleTaoTao/MyKnowledgeSystem#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
+- [LeetCode刷题](https://github.com/MiracleTaoTao/MyKnowledgeSystem#leetcode%E5%88%B7%E9%A2%98)
+  - [刷题列表](https://github.com/MiracleTaoTao/MyKnowledgeSystem#%E5%88%B7%E9%A2%98%E5%88%97%E8%A1%A8)
+  - [输出文章](https://github.com/MiracleTaoTao/MyKnowledgeSystem#%E8%BE%93%E5%87%BA%E6%96%87%E7%AB%A0)
+- [JavaWeb](https://github.com/MiracleTaoTao/MyKnowledgeSystem#javaweb)
+- [Web前端](https://github.com/MiracleTaoTao/MyKnowledgeSystem#web%E5%89%8D%E7%AB%AF)
+- [数据库](https://github.com/MiracleTaoTao/MyKnowledgeSystem#%E6%95%B0%E6%8D%AE%E5%BA%93)
+- 面试题练习
+- 写作输出
+  - 技术分享
+  - 快乐源泉分享
+    - 书籍
+    - 电影
+    - 电视剧
+    - 动漫
+    - 综艺
+
 ## 视频资料
 
 ## Java基础
+
+- eclipse的常用操作
+- java数组
+- String类详解
+- 一些常见的java类汇总
 
 ## 设计模式
 
@@ -27,7 +53,46 @@
 
 ## JavaWeb
 
+- Servlet
+- HTTP
+- JDBC
+- Tomcat
+- XML解析
+
 ## Web前端
 
+- ES6介绍
+- HTML知识点整理
+- CSS知识点整理
+- JavaScript基础知识
+- JavaScript进阶
+- JQuery
+- Bootstrap知识点整理
+- ES6介绍
+
 ## 数据库
+
+- SQL基础知识点整理
+
+## 面试题练习
+
+## 写作输出
+
+### 技术分享
+
+### 快乐源泉分享
+
+#### 书籍
+
+#### 电影
+
+#### 电视剧
+
+#### 动漫
+
+#### 综艺
+
+
+
+
 
