@@ -3,7 +3,7 @@
 
 ## 目录
 
-- 工作学习中遇到的小知识点
+- [工作学习中遇到的小知识点](https://github.com/MiracleTaoTao/MyKnowledgeSystem#%E5%B7%A5%E4%BD%9C%E5%AD%A6%E4%B9%A0%E4%B8%AD%E9%81%87%E5%88%B0%E7%9A%84%E5%B0%8F%E7%9F%A5%E8%AF%86%E7%82%B9)
 - [视频资料](https://github.com/MiracleTaoTao/MyKnowledgeSystem#%E8%A7%86%E9%A2%91%E8%B5%84%E6%96%99)
 - [Java基础](https://github.com/MiracleTaoTao/MyKnowledgeSystem#java%E5%9F%BA%E7%A1%80)
 - [设计模式](https://github.com/MiracleTaoTao/MyKnowledgeSystem#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
@@ -22,6 +22,10 @@
 > 工作和学习中经常会碰到一些小的知识点，但又不足以形成一篇文章，用此文档记录下来，时常复习，也别有一番滋味。
 
 如：**GitHub如何实现静态网页小demo的托管等**
+
+- [GitHub提交时的表情列表](https://github.com/MiracleTaoTao/MyKnowledgeSystem/blob/master/%E5%B7%A5%E4%BD%9C%E5%AD%A6%E4%B9%A0%E4%B8%AD%E9%81%87%E5%88%B0%E7%9A%84%E5%B0%8F%E7%9F%A5%E8%AF%86%E7%82%B9/GitHub%E6%8F%90%E4%BA%A4%E6%97%B6%E7%9A%84%E8%A1%A8%E6%83%85%E5%88%97%E8%A1%A8.md)
+- [github emoji 表情列表（转载）.md](https://github.com/MiracleTaoTao/MyKnowledgeSystem/blob/master/%E5%B7%A5%E4%BD%9C%E5%AD%A6%E4%B9%A0%E4%B8%AD%E9%81%87%E5%88%B0%E7%9A%84%E5%B0%8F%E7%9F%A5%E8%AF%86%E7%82%B9/github%20emoji%20%E8%A1%A8%E6%83%85%E5%88%97%E8%A1%A8%EF%BC%88%E8%BD%AC%E8%BD%BD%EF%BC%89.md)
+- ......
 
 因为概要篇幅所限，更多精彩请前往👉[这里](https://github.com/MiracleTaoTao/MyKnowledgeSystem/tree/master/%E5%B7%A5%E4%BD%9C%E5%AD%A6%E4%B9%A0%E4%B8%AD%E9%81%87%E5%88%B0%E7%9A%84%E5%B0%8F%E7%9F%A5%E8%AF%86%E7%82%B9)查看
 
