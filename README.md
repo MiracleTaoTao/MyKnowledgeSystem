@@ -3,6 +3,7 @@
 
 ## 目录
 
+- 工作学习中遇到的小知识点
 - [视频资料](https://github.com/MiracleTaoTao/MyKnowledgeSystem#%E8%A7%86%E9%A2%91%E8%B5%84%E6%96%99)
 - [Java基础](https://github.com/MiracleTaoTao/MyKnowledgeSystem#java%E5%9F%BA%E7%A1%80)
 - [设计模式](https://github.com/MiracleTaoTao/MyKnowledgeSystem#%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F)
@@ -15,6 +16,14 @@
 - [面试题练习](https://github.com/MiracleTaoTao/MyKnowledgeSystem#%E9%9D%A2%E8%AF%95%E9%A2%98%E7%BB%83%E4%B9%A0)
 - [写作输出](https://github.com/MiracleTaoTao/MyKnowledgeSystem#%E5%86%99%E4%BD%9C%E8%BE%93%E5%87%BA)
   - [技术分享](https://github.com/MiracleTaoTao/MyKnowledgeSystem#%E6%8A%80%E6%9C%AF%E5%88%86%E4%BA%AB)
+
+## 工作学习中遇到的小知识点
+
+> 工作和学习中经常会碰到一些小的知识点，但又不足以形成一篇文章，用此文档记录下来，时常复习，也别有一番滋味。
+
+如：**GitHub如何实现静态网页小demo的托管等**
+
+因为概要篇幅所限，更多精彩请前往👉[这里](https://github.com/MiracleTaoTao/MyKnowledgeSystem/tree/master/%E5%B7%A5%E4%BD%9C%E5%AD%A6%E4%B9%A0%E4%B8%AD%E9%81%87%E5%88%B0%E7%9A%84%E5%B0%8F%E7%9F%A5%E8%AF%86%E7%82%B9)查看
 
 ## 视频资料
 
